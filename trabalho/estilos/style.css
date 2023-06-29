@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+*{
+    text-align: center;
+}
+
+body{
+    background-image: url(../imagens/mapear-oceano-ciclovivo-1024x768.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right center;
+}
+
+h1{
+    margin: auto;
+    width: 500px;
+    border-radius: 20px;
+    border: 3px solid white;
+    background-color: rgba(0, 189, 189, 0.661);
+    font-size: 5em;
+}
+
+h2{
+    padding: 30px 0px;
+    margin: auto;
+    width: 500px;
+    border-radius: 20px;
+    border: 3px solid white;
+    background-color: rgba(0, 189, 189, 0.661);
+}
